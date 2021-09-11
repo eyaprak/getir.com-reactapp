@@ -1,5 +1,6 @@
 ## GETIR.COM RESPONSIVE UI DESIGN WITH REACT AND TAILWIND CSS
- 
+This project created with React.js and Tailwind css.
+
 ## DESKTOP UI
 ![react-getir-app netlify app_ (1)](https://user-images.githubusercontent.com/65674132/132942080-05aa0df9-c260-45cf-82d6-c3962221c0f5.png)
 
